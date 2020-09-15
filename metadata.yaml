@@ -1,0 +1,30 @@
+_repo: Historic-Homes-Fort-Dodge-Iowa_63118
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Loomis, Allen R.
+    gutenberg_agent_id: '52297'
+    url: http://www.gutenberg.org/2009/agents/52297
+creator:
+  author:
+    agent_name: Haugen, Karl F.
+    gutenberg_agent_id: '52293'
+    url: http://www.gutenberg.org/2009/agents/52293
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63118'
+  lccn: '76359377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- Iowa -- Fort Dodge'
+- !lcc 'F590.3'
+- !lcsh 'Dwellings -- Iowa -- Fort Dodge'
+- !lcsh 'Fort Dodge (Iowa) -- Buildings, structures, etc.'
+- GITenberg
+title: Historic Homes, Fort Dodge, Iowa
+url: http://www.gutenberg.org/ebooks/63118
