@@ -5,12 +5,17 @@ contributor:
     agent_name: Loomis, Allen R.
     gutenberg_agent_id: '52297'
     url: http://www.gutenberg.org/2009/agents/52297
+covers:
+- cover_type: archival
+  image_path: 63118-h/images/cover.jpg
 creator:
   author:
     agent_name: Haugen, Karl F.
     gutenberg_agent_id: '52293'
     url: http://www.gutenberg.org/2009/agents/52293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63118#Historic-Homes-Fort-Dodge-Iowa
 gutenberg_issued: '2020-09-04'
 gutenberg_type: Text
 identifiers:
